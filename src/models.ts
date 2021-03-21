@@ -1,0 +1,3 @@
+// interface Shop{
+//     Name: string
+// }
